@@ -1,5 +1,5 @@
 Início
-saldo ← 1000
+saldo ← 1200
 inicia_operacao ← 1
 Enquanto inicia_operacao = 1 faça
 Escreva "Digite valor do saque: "
